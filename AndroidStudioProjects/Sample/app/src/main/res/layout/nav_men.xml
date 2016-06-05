@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <group android:checkableBehavior="single"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="Import"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Gallery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="Slideshow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Tools"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <item
+            android:id="@+id/nav_logo"
+            android:title="logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </group>
+
+    <item android:title="Communicate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <menu android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share"
+                android:onClick="onShareClicked"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <item
+                android:id="@+id/nav_send"
+                android:title="Send"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </menu>
+    </item>
+
+</menu>

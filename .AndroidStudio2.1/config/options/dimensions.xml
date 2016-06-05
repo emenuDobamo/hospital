@@ -1,0 +1,44 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.3840.2160@192dpi" x="1920" y="460" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.3840.2160@192dpi" x="1435" y="791" />
+    <location key="deploy.picker.dialog.0.0.3840.2160@192dpi" x="1381" y="351" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.3840.2160@192dpi" x="1669" y="646" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.3840.2160@192dpi" x="1478" y="741" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.3840.2160@192dpi" x="1378" y="521" />
+    <location key="AndroidCreateResourceFileDialog.0.0.3840.2160@192dpi" x="1478" y="741" />
+    <location key="#ApplicationTest.0.0.3840.2160@192dpi" x="1391" y="395" />
+    <location key="chooseDestDirectoryDialog.0.0.3840.2160@192dpi" x="1478" y="738" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.3840.2160@192dpi" x="1284" y="470" />
+    <location key="SettingsEditor.0.0.3840.2160@192dpi" x="789" y="227" />
+    <location key="AndroidThemeDialog.0.0.3840.2160@192dpi" x="1092" y="441" />
+    <location key="FileChooserDialogImpl.0.0.3840.2160@192dpi" x="1492" y="541" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.3840.2160@192dpi" x="432" y="548" />
+    <location key="#Inspections.0.0.3840.2160@192dpi" x="1434" y="615" />
+    <location key="bookmarks.0.0.3840.2160@192dpi" x="1168" y="657" />
+    <location key="#Project_Structure.0.0.3840.2160@192dpi" x="1084" y="326" />
+    <location key="com.android.tools.idea.gradle.structure.editors.MavenDependencyLookupDialog.0.0.3840.2160@192dpi" x="1291" y="717" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.3840.2160@192dpi" x="1542" y="456" />
+    <location key="IdeErrosDialog.0.0.3840.2160@192dpi" x="1104" y="776" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.3840.2160@192dpi" x="1374" y="809" />
+    <location key="NewModule_or_Project.wizard.0.0.3840.2160@192dpi" x="1483" y="666" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.3840.2160@192dpi" x="1385" y="621" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.3840.2160@192dpi" x="2225" y="601" />
+    <location key="AndroidProcessChooserDialog.0.0.3840.2160@192dpi" x="1717" y="706" />
+    <size key="deploy.picker.dialog.0.0.3840.2160@192dpi" width="951" height="938" />
+    <size key="GridCell.Tab.0.left.0.0.3840.2160@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.3840.2160@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.3840.2160@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.3840.2160@192dpi" width="0" height="0" />
+    <size key="javadoc.popup.0.0.3840.2160@192dpi" width="1112" height="369" />
+    <size key="GridCell.Tab.1.left.0.0.3840.2160@192dpi" width="3740" height="473" />
+    <size key="GridCell.Tab.1.center.0.0.3840.2160@192dpi" width="3740" height="473" />
+    <size key="GridCell.Tab.1.right.0.0.3840.2160@192dpi" width="3740" height="473" />
+    <size key="GridCell.Tab.1.bottom.0.0.3840.2160@192dpi" width="3740" height="473" />
+    <size key="SettingsEditor.0.0.3840.2160@192dpi" width="2242" height="1407" />
+    <size key="bookmarks.0.0.3840.2160@192dpi" width="1470" height="679" />
+    <size key="AndroidCreateResourceFileDialog.0.0.3840.2160@192dpi" width="856" height="610" />
+    <size key="refactoring.ChangeSignatureDialog.0.0.3840.2160@192dpi" width="791" height="974" />
+    <size key="NewModule_or_Project.wizard.0.0.3840.2160@192dpi" width="1625" height="815" />
+  </component>
+</application>
